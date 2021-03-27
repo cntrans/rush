@@ -1,0 +1,16 @@
+/*
+Theme Name:     B2子主题
+Theme URI:      http: //7b2.com/
+Description:    Child theme for the seven
+Author:         子主题模版
+Author URI:     http: //7b2.com/
+Template:       b2
+Version:        0.1.5
+*/
+
+.footer .b2-widget-title h2, .widget > h2 {
+    font-size: 12px;
+    padding: 13px 16px;
+    line-height: 1;
+    color: #5d515d;
+}
